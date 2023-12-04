@@ -23,7 +23,7 @@ function iniciosesion(setUser) {
     <>
       <body>
         <header>
-          <img alt="Buho" src="src/Img/Logo.png" />
+          <img alt="Buho" src="src/Img/Logo.gif" />
           <h1>Bienvenidos a Instinto Académico de ayuda estudiantil</h1>
           <div>
           <NavLink to="/registro" className="enlace-registro">Regístrate</NavLink>
